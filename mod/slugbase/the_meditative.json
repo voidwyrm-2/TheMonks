@@ -1,0 +1,32 @@
+{
+	"id": "Meditative",
+	"name": "The Meditative",
+	"description": "Once a normal slugcat, he has become a slighty more enlightened being(too-cool-for-school slugcat),<LINE>he has learned ancient by studying graffiti and other things;<LINE>he now journeys through the land at will(The Fasting but with some BONUS FEATURES)",
+	"features": {
+		"color": "cdcd68",
+		"karma_cap": 6,
+		"karma": 1,
+		"the_mark": true,
+		"the_glow": true,
+		"food_min": 3,
+		"food_max": 6,
+		"throw_skill": [ 6, 0.9 ],
+		"back_spear": false,
+		"can_maul": false,
+		"themonks/dual_wield": true,
+		"maul_blacklist": [ "DeltaLizord", "Fly" ],
+		"diet": {
+			"base": "Yellow"
+		},
+		"auto_grab_batflies": false,
+
+		"guide_overseer": 1,
+		"start_room": "SU_C04",
+		"world_state": "Yellow",
+		"timeline_after": "Yellow",
+		"timeline_before": "Rivulet",
+
+		"select_menu_scene": "Slugcat_Meditative",
+		"select_menu_scene_ascended": "Ghost_Meditative"
+	}
+}

@@ -1,0 +1,9 @@
+﻿{
+	"id": "dv.themonks",
+	"name": "The Monks",
+	"version": "1.0.0",
+	"authors": "deltav",
+	"description": "solace(not) but in monk",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "Fasting",
+	"name": "The Fasting",
+	"description": "One of the slugpups that Survivor brought to the tree and learned from Monk(Monk but more spear damage)",
+	"features": {
+		"color": "e2e151",
+		"karma_cap": 4,
+		"karma": 1,
+		"perma_unlock_gates": true,
+		"the_mark": false,
+		"the_glow": true,
+		"throw_skill": [ 2, 0.9 ],
+		"back_spear": true,
+		"can_maul": true,
+		"maul_blacklist": [ "DeltaLizord", "Fly" ],
+		"diet": {
+			"base": "Yellow"
+		},
+		"auto_grab_batflies": false,
+
+		"guide_overseer": 1,
+		"start_room": "SU_C04",
+		"world_state": "Yellow",
+		"timeline_after": "Yellow", "timeline_before": "Rivulet",
+
+		"select_menu_scene": "Slugcat_Fasting",
+		"select_menu_scene_ascended": "Ghost_Fasting"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"id": "Disciple",
+	"name": "The Disciple",
+	"description": "*dramatic ahhhhh's intensifies* The Disciple is the pupil of the Saint and Enot,<LINE>having found themselves in a ¿place?",
+	"features": {
+		"color": "e2e151",
+		"karma_cap": 4,
+		"karma": 0,
+		"the_mark": false,
+		"the_glow": false,
+		"food_min": 1,
+		"food_max": 2,
+		"throw_skill": [ 0, 0 ],
+		"back_spear": false,
+		"can_maul": false,
+		"maul_blacklist": [ "DeltaLizord", "Fly" ],
+		"diet": {
+			"base": "Saint",
+			"overrides": {
+				"EggBugEgg": -1,
+				"DangleFruit": 0.5,
+				"FireEgg": -1
+			}
+		},
+		"auto_grab_batflies": false,
+
+		"cycle_length_min": 2.1,
+		"cycle_length_max": 4.2,
+
+		"guide_overseer": 1,
+		"start_room": "SH_E01",
+		"world_state": "Inv",
+		"timeline_after": "Inv", "timeline_before": "Saint",
+
+		"select_menu_scene": "Slugcat_Disciple",
+		"select_menu_scene_ascended": "Ghost_Disciple"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"id": "Slugcat_Disciple",
+	"scene_folder": "scenes/slugcat - disciplesleep",
+	"images": [
+		{ "name": "Background", "pos": [672, 236], "depth": 3.7, "shader": "Basic" },
+		{ "name": "Disciplesleep",    "pos": [674, 138], "depth": 2.8, "shader": "Basic" },
+		{ "name": "Grass 3",    "pos": [710, 120], "depth": 2.2, "shader": "Basic" },
+		{ "name": "Grass 2",    "pos": [811, 66], "depth": 2.0, "shader": "Basic" },
+		{ "name": "Grass 1",    "pos": [486, -54], "depth": 1.8, "shader": "Basic" }
+	],
+	"idle_depths": [ 2.8 ],
+	"glow_pos": [688, 484],
+	"mark_pos": [689, 583],
+	"select_menu_pos": [0, 0],
+	"slugcat_depth": 2.8
+}
