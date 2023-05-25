@@ -13,7 +13,6 @@
 		"throw_skill": [ 6, 0.9 ],
 		"back_spear": false,
 		"can_maul": false,
-		"themonks/dual_wield": true,
 		"maul_blacklist": [ "DeltaLizord", "Fly" ],
 		"diet": {
 			"base": "Yellow"
