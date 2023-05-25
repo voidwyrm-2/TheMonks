@@ -1,7 +1,6 @@
 DISCLAIMER: I will only ever post mods on the Steam workshop(or in the case of Minecraft mods, CurseForge;
 and in the case of something like Slime Rancher, Nexus Mods.)
-if you need a non-workshop release then @me on the Rain World discord in the [insert channel here].
-I if see it and you use the magic word “please” I will give it to you(this is not sarcasm).
+if you need a non-workshop release then make an issue and I'll respond when I see it
 
 Credits:
 credit to Deathpits for being awesome and helping an idiot like me,
