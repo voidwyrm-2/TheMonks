@@ -1,5 +1,5 @@
 {
-	"id": "Fasting",
+	"id": "nc.Fasting",
 	"name": "The Fasting",
 	"description": "One of the slugpups that Survivor brought to the tree and learned from Monk(Monk but more spear damage)",
 	"features": {
@@ -21,7 +21,9 @@
 		"guide_overseer": 1,
 		"start_room": "SU_C04",
 		"world_state": "Yellow",
-		"timeline_after": "Yellow", "timeline_before": "Rivulet",
+		"timeline_after": "Yellow",
+		"timeline_before": "Rivulet",
+
 
 		"select_menu_scene": "Slugcat_Fasting",
 		"select_menu_scene_ascended": "Ghost_Fasting"

@@ -45,8 +45,23 @@
         <Reference Include="..\lib\UnityEngine.dll">
           <Private>false</Private>
         </Reference>
-        <Reference Include="DualWieldingPlugin">
-          <HintPath>..\lib\DualWieldingPlugin.dll</HintPath>
+        <Reference Include="PorcupineCat">
+          <HintPath>..\lib\PorcupineCat.dll</HintPath>
+        </Reference>
+        <Reference Include="TheWanderer">
+          <HintPath>..\lib\TheWanderer.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.InputLegacyModule">
+          <HintPath>..\lib\UnityEngine.InputLegacyModule.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.UI">
+          <HintPath>..\lib\UnityEngine.UI.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.UIElementsModule">
+          <HintPath>..\lib\UnityEngine.UIElementsModule.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine.UIModule">
+          <HintPath>..\lib\UnityEngine.UIModule.dll</HintPath>
         </Reference>
     </ItemGroup>
     

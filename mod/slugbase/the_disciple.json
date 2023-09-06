@@ -1,9 +1,9 @@
 {
-	"id": "Disciple",
+	"id": "nc.Disciple",
 	"name": "The Disciple",
 	"description": "*dramatic ahhhhh's intensifies* The Disciple is the pupil of the Saint and Enot,<LINE>having found themselves in a ¿place?",
 	"features": {
-		"color": "e2e151",
+		"color": "cf00b4",
 		"karma_cap": 4,
 		"karma": 0,
 		"the_mark": false,
